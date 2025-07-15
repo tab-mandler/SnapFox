@@ -74,7 +74,7 @@ This document outlines the comprehensive testing strategy for SnapFox, leveragin
 | Clipboard      | Yes        | Yes              | Yes          |
 | Sharing        | Yes        | Yes              | Yes          |
 | UI             | Yes        | Yes              | Yes          |
-| State Mgmt     | Yes        | Yes              | Yes          |
+| State Management | Yes        | Yes              | Yes          |
 | Accessibility  | Yes        | Yes              | Yes          |
 | Integration    | Yes        | Yes              | Yes          |
 
